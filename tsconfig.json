@@ -1,0 +1,12 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es2015",
+        "module": "amd",
+        "sourceMap": true,
+        "watch": true
+    },
+    "include": [
+        "**/*"
+    ]
+}
